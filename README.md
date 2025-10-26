@@ -7,3 +7,5 @@ Mobile Application Testing
 [Bug Reports Shopping List Mobile App](https://docs.google.com/spreadsheets/d/1k31Wbr-R_bGo-GW64DXM9hjhuQvyd_U6LZgEJrn_R-E/edit?usp=sharing)
 
 [Test_Run_Shopping_List_Mobile_App.pdf](https://github.com/user-attachments/files/23153212/Test_Run_Shopping_List_Mobile_App.pdf)
+
+[Test Summary Report](https://docs.google.com/document/d/148ybOTPElchDDhJ9hKw_3J3iq7m_I6JuGUHnGzyWvic/edit?usp=sharing)
