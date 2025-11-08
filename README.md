@@ -17,7 +17,7 @@ The main focus was verifying stability, usability, data saving, and behavior und
 
 [Mobile_Demo_Shopping_Charles_Proxy](https://drive.google.com/file/d/1wjODd8bqFZ6r_tPU0e_29CDqBlnFBwEY/view?usp=sharing) — video demonstration of proxy setup and traffic interception on a mobile device, including SSL proxying and request modification.
 
-##  What this repo demonstrates
+## What this repo demonstrates
 - Experience in mobile app testing on Android (emulated device — Google Pixel 14).  
 - Testing of installation, launch, UI/UX, offline mode, performance, and interruption handling.    
 - Using **Charles Proxy** for network-level testing and debugging on both **web** and **mobile** platforms. 
